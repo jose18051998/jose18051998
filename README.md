@@ -5,7 +5,7 @@ to solving problems and developing components to do specific tasks the best poss
 the meantime, I am learning french, giving python lessons to undergraduates and I am doing some coding 
 challenges on internet to keep myself in shape.
 - 💞️ I’m looking to collaborate developing software on any projects where my background could fit (full stack, data scientist...)
-- 📫 How to reach me: josebenjumedarubio@gmail.com | +34 671 922 968
+- 📫 How to reach me: josebenjumedarubio@gmail.com
 - My LinkedIn profile: https://www.linkedin.com/in/jose-manuel-benjumeda-rubio-191842134.
 
 <!---
