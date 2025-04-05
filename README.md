@@ -8,6 +8,6 @@
 
 📫 How to reach me: josebenjumedarubio@gmail.com
 
-My LinkedIn profile: José Benjumeda Rubio
+My LinkedIn profile: [José Benjumeda Rubio](https://www.linkedin.com/in/jose-manuel-benjumeda-rubio-191842134/)
 
 <!--- jose18051998/jose18051998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
